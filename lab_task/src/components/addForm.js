@@ -1,8 +1,7 @@
 import {useState} from 'react';
-import {users} from '../usersData';
 import {useParams} from 'react-router-dom';
 
-function addForm(){
+export function addForm(){
     return(
        <div className="addForm">
       <table>
@@ -21,3 +20,4 @@ function addForm(){
        </div> 
     )
 }
+export default addForm;
