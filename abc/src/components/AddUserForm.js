@@ -23,5 +23,5 @@ export const AddUserForm = ()=>{
     </table> 
 </form>
 </div>
-    )
+     )
 }

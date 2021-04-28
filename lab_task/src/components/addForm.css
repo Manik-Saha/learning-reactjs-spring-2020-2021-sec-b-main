@@ -1,0 +1,10 @@
+.addForm{
+  text-align: center;
+  background-color: azure;
+  border: 3px;
+  position: relative;
+  margin: auto;
+  width: 200px; 
+  height: 100%;
+  border-radius: 5px;
+}
